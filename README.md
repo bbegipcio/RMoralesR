@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RMoralesR
 - 👀 I’m interested in learning new techs 
-- 🌱 I’m currently learning python, git and GO
+- 🌱 I’m currently learning python, git and java
 - 💞️ I’m looking to collaborate on games and all desktop apps
 - 📫 How to reach me rodrigo.morales.mendoza.2006@gmail.com
 
